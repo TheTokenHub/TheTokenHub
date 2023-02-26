@@ -2,7 +2,7 @@
 
 # 💫 About US:
 
-The official account of the Egyptian token hub team owned by 999 (Mohamed)
+The official account of the Egyptian token hub team owned by 999 (Mohamed) & memo (mahmoud)
 
 Token Hub team specialized in discord software (tools, codes, bots, and much more)
 
